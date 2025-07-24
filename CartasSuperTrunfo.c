@@ -46,6 +46,7 @@ int main() {
     scanf("%d", &pontosTuristicos2);
 
     // Imprimir dados das Cartas
+    //Dados Carta 1
     printf("\nDados das Cartas:\n");
     printf("Carta 1:\n");
     printf("Estado: %c\n", estado1);
@@ -56,6 +57,7 @@ int main() {
     printf("PIB: %.2f bilhões de reais\n", pib1);
     printf("Número de Pontos Turísticos: %d\n\n", pontosTuristicos1);
 
+    //Dados carta 2
     printf("Carta 2:\n");
     printf("Estado: %c\n", estado2);
     printf("Código: %s\n", codigo2);
